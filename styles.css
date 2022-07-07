@@ -76,6 +76,7 @@ img {
 .img-resp:hover {
   -moz-transform: scale(1.1);
   -webkit-transform: scale(1.1);
+  transition: transform 500ms;
   transform: scale(1.1);
 }
 h1 {
