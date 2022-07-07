@@ -114,6 +114,10 @@ ul li a:hover {
   background: var(--primary-color-dark);
 }
 
+ul li p {
+  text-align: start;
+  width: 20%;
+}
 footer {
   font-size: 12px;
   font-weight: 500px;
